@@ -4,9 +4,10 @@
     "minimum-stability": "stable",
     "license": "MIT",
     "keywords": [
+        "pdf",
         "laravel",
-        "websolutionstuff",
-        "pdf"
+        "html to pdf converter",
+        "websolutionstuff"
     ],
     "authors": [
         {
